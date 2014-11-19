@@ -1,20 +1,16 @@
 body{
-	text-align: left;
-	background: url("../images/background.png");
-	background-size: 100%;
-  	background-position: center;
-  	background-repeat: no-repeat;
-  	color: white;
-  	font-family: helvetica;
+	background: url("../images/background.png") no-repeat;
+	background-size: cover;
+  	color: #fff;
+  	font-family: helvetica, arial, sans-serif;
   	font-weight: bold;
   	font-size: 22px;
 }
-
-
-hr {
-	width: 100px;
-	text-align: left;
+section {
+	margin:300px 0 0 200px;
 }
-a {
-	text-align: left;
+hr {
+	border-color:#fd6e6e;
+	width: 100px;
+	margin-left:0;
 }
