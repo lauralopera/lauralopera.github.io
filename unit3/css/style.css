@@ -1,5 +1,5 @@
 body{
-	background: url("../images/stripes.png") repeat-x, url("../images/background.png") no-repeat;
+	background: url("../images/stripes.png") repeat-x, url("../images/background.png") no-repeat #fd6e6e;
 	background-size: auto, cover;
   	color: #fff;
   	font-family: helvetica, arial, sans-serif;
