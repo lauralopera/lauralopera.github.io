@@ -12,6 +12,17 @@ section {
 }
 h1{
 }
+hr {
+	border-color: #fff;
+	width: 180px;
+}
+section a {
+	border:2px solid #fff;
+	color:#fff;
+	padding:20px 50px;
+	text-decoration: none;
+}
+	
 .bites {
 	font-size: 1.62em;
 	font-weight: bold;
@@ -21,9 +32,4 @@ h1{
 	position:absolute;
 	top:50px;
 	right:100px;
-}
-
-hr {
-	border-color: #fff;
-	width: 180px;
 }
