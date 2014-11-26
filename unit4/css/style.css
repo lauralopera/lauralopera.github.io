@@ -1,6 +1,6 @@
 body{
 	background: url("../images/bar.jpg") no-repeat;
-	background-size: center;
+	background-position: center;
   	color: #fff;
   	font-family: 'Quicksand', sans-serif, arial;
   	font-weight: bold;
