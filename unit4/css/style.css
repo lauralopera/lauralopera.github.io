@@ -1,5 +1,5 @@
 body{
-	background: url("../images/bar.jpg") no-repeat;
+	background: url("../images/bar.jpg") no-repeat, #5C3200;
 	background-size: 100%;
   	color: #fff;
   	font-family: 'Quicksand', sans-serif, arial;
