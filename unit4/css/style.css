@@ -1,11 +1,14 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-
+* + * { margin-top:20px; }
 body{
 	background: url("../images/bar.jpg") no-repeat #5C3200;
 	background-size: cover;
   	color: #fff;
 	font-family: 'Quicksand', sans-serif, arial;
   	font-size:16px;
+}
+section {
+	margin:200px 0 0 200px;
 }
 h1{
 }
@@ -14,9 +17,10 @@ h1{
 	font-weight: bold;
 }
 .menu {
-}
-
-.button{
+	width:65px;
+	position:absolute;
+	top:50px;
+	right:100px;
 }
 
 hr {
