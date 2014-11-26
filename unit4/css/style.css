@@ -7,6 +7,7 @@ body{
 	font-family: 'Quicksand', sans-serif, arial;
   	font-size:16px;
 }
+div { background:rgba(0,0,0,.5); }
 section {
 	margin:200px 0 0 200px;
 }
