@@ -2,19 +2,32 @@ body{
 	background: url("../images/bar.jpg") no-repeat #5C3200;
 	background-size: 100%;
   	color: #fff;
-  	font-family: 'Quicksand', sans-serif, arial;
   	font-weight: bold;
-  	font-size: 22px;
+ 
 }
 h1{
-	margin: 300px 0 0 0;
+
+	margin: 300px ;
+	padding
 
 }
-section {
+.bites {
+	font-family: 'Quicksand', sans-serif, arial;
 	margin:300px 0 0 200px;
+	font-size: 22px;
+	font-weight: bold;
+	color: #fff;
 }
+.menu {
+	font-family: 'Quicksand', sans-serif, arial;
+	font-size: 10px;
+	margin:300px 0 0 200px;
+	color: #fff;
+
+}
+
 hr {
 	border-color:#fff;
-	width: 100px;
+	width: 200px;
 	margin-left:0;
 }
