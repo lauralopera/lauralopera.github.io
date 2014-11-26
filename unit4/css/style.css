@@ -19,6 +19,7 @@ hr {
 section a {
 	border:2px solid #fff;
 	color:#fff;
+	display:block;
 	padding:20px 50px;
 	text-decoration: none;
 }
