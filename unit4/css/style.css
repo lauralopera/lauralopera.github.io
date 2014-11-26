@@ -1,38 +1,25 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
 body{
 	background: url("../images/bar.jpg") no-repeat #5C3200;
-	background-size: 100%;
+	background-size: cover;
   	color: #fff;
-  	font-weight: bold;
- 
+	font-family: 'Quicksand', sans-serif, arial;
+  	font-size:16px;
 }
 h1{
-
-	margin: 70px ;
-	padding
-
 }
 .bites {
-	font-family: 'Quicksand', sans-serif, arial;
-	margin: 90px;
-	font-size: 25px;
+	font-size: 1.62em;
 	font-weight: bold;
-	color: #fff;
 }
 .menu {
-	font-family: 'Quicksand', sans-serif, arial;
-	font-size: 12px;
-	margin: 200px 10px 20px 200px;
-	color: #fff;
-
 }
 
 .button{
-	margin: 200px 10px 20px 200px;
-
 }
 
 hr {
 	border-color: #fff;
 	width: 180px;
-	margin: 70px;
 }
