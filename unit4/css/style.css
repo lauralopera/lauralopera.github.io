@@ -1,6 +1,6 @@
 body{
-	background: url("../images/bar.jpg") no-repeat #fd6e6e;
-	background-size: fit;
+	background: url("../images/bar.jpg") no-repeat;
+	background-size: auto, cover;
   	color: #fff;
   	font-family: 'Quicksand', sans-serif, arial;
   	font-weight: bold;
@@ -10,7 +10,7 @@ section {
 	margin:300px 0 0 200px;
 }
 hr {
-	border-color:#fd6e6e;
+	border-color:#fff;
 	width: 100px;
 	margin-left:0;
 }
