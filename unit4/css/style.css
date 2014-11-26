@@ -1,6 +1,6 @@
 body{
 	background: url("../images/bar.jpg") no-repeat #fd6e6e;
-	background-size: auto, cover;
+	background-size: fit;
   	color: #fff;
   	font-family: 'Quicksand', sans-serif, arial;
   	font-weight: bold;
