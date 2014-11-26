@@ -1,0 +1,16 @@
+body{
+	background: url("../images/bar.jpg") no-repeat #fd6e6e;
+	background-size: auto, cover;
+  	color: #fff;
+  	font-family: 'Quicksand', sans-serif, arial;
+  	font-weight: bold;
+  	font-size: 22px;
+}
+section {
+	margin:300px 0 0 200px;
+}
+hr {
+	border-color:#fd6e6e;
+	width: 100px;
+	margin-left:0;
+}
