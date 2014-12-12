@@ -1,28 +1,32 @@
-h1 {
-font-size: 22px;
+* { box-sizing:border-box; }
+
+body {
 }
-
-h2 {
-font-size: 36px;
-padding: 13px 0;
-}
-
-h3 {
-
-}
-
 section {
-border-bottom: 4px solid black;
-display: inline-block;
 }
-
-#wood {
-display: block;
-margin: 0 auto;
+header {
+  border-bottom: 4px solid black;
+  display: inline-block;
+  position:fixed;
+  top:0;
+  left:0;
+  right:0;
+}
+h1 {
+  font-size: 22px;
+}
+h2 {
+  font-size: 36px;
+  padding: 13px 0;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding: 0;
+}
+#splash {
+  background: url(images/background.jpg) no-repeat;
+  background-size:cover;
+  height:100vh;
 }
