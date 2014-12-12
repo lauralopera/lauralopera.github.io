@@ -8,5 +8,10 @@ h2 {
 }
 
 h3 {
-	
+
+}
+
+section {
+	border-bottom: 4px solid black;
+    display: inline-block;
 }
