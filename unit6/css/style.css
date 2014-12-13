@@ -27,7 +27,7 @@ ul {
 }
 
 #splash {
-  background: url(...images/background.jpg) no-repeat;
-  background-size: cover;
+  background: url(images/background.jpg) no-repeat;
+  background-size:;
   height: 100vh;
 }
