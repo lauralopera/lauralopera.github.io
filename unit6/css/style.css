@@ -28,7 +28,7 @@ ul {
   padding: 50px;
 }
 
-#section1 {
-  background-image: url(background.jpg);
+header {
+  background: url(background.jpg) no-repeat;
   background-position: center; 
 }
