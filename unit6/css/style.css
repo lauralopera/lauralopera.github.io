@@ -9,9 +9,7 @@ header {
   right:0;
 }
 img{
-
   display: block;
-  
 }
 h1 {
   font-size: 22px;
@@ -29,8 +27,5 @@ ul {
 
 #section1 {
   background-image: url(background.jpg);
-  background-position: center;
-  
+  background-position: center; 
 }
-
-#splashcontent 
