@@ -8,6 +8,12 @@ header {
   left:0;
   right:0;
 }
+img{
+
+  display: block;
+  clear:both;
+  width:300px;
+}
 h1 {
   font-size: 22px;
 }
