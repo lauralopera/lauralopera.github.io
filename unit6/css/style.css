@@ -1,9 +1,5 @@
 * { box-sizing:border-box; }
 
-body {
-}
-section {
-}
 header {
   border-bottom: 4px solid black;
   display: inline-block;
@@ -23,7 +19,7 @@ h2 {
 ul {
   list-style: none;
   margin: 0;
-  padding: 0;
+  padding: 50px;
 }
 
 #section1 {
