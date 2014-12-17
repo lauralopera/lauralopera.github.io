@@ -28,7 +28,7 @@ ul {
 
 #splash {
   background: url("...images/background.jpg") no-repeat;
-  background-size:;
+  background-position: center;
   height: 100vh;
 }
 
