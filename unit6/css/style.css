@@ -6,11 +6,13 @@ body {
  font-size:18px;
 }
 header {
+  background:#fff;
   border-bottom: 3px solid #222;
   position:fixed;
   top:0;
   left:0;
   right:0;
+  z-index:1;
 }
 nav a{
   font-size:1em;
@@ -64,10 +66,16 @@ background-position: cover;
 height:50vh;
 }
 #splash div {
-	width:50%;
+	margin:0 auto;
+	max-width:1200px;
 	position:relative;
 	top:50%;
 	transform: translateY(-50%);
+}
+#products { }
+#products div {
+	margin:0 auto;
+	max-width:1200px;
 }
 .clearfix:after {
 	visibility: hidden;
