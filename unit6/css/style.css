@@ -1,16 +1,10 @@
 * { box-sizing:border-box; }
 
 body {
+ color:#222;
  font-family:'Didact Gothic', sans-serif;
  font-size:18px;
 }
-
-
-
-/* question ???? (background: 6CAD29) */
-
-
-
 header {
   border-bottom: 3px solid #222;
   position:fixed;
@@ -18,8 +12,6 @@ header {
   left:0;
   right:0;
 }
- 
-
 nav a{
   font-size:1em;
   text-decoration: none;
