@@ -1,34 +1,85 @@
-* { box-sizing:border-box; }
+section {
+background-image: url(background.jpg);
+background-position: 50% 50%;
 
-header {
-  border-bottom: 4px solid black;
-  display: inline-block;
-  position: static;
-  top:0;
-  left:50px;
-  right:0;
 }
+
+#trybox { 
+font-family: 'Satisfy', cursive; 
+font-size: 22px;
+text-decoration: none;
+color: black;
+background: 6CAD29;
+outline: 2px solid green;
+width: 50%;
+height: 100px; 
+text-align: center;
+line-height: 100px;
+background: green; 
+ }
+question ???? (background: 6CAD29)
+
 #logo {
   display: block;
   margin: 0 auto;
   clear: both;
   width: 480px;
 }
+
+header {
+  border-bottom: 3px solid black;
+  display: inline-block;
+  position: static;
+  top:0;
+  left:0;
+  right:0;
+}
+ 
+
+nav a{
+  font-family:'Didact Gothic', sans-serif; 
+  font-size:20px;
+  text-decoration: none;
+  color: white;
+  background-color: #946D54 ;
+  clear: both;
+}
+
 h1 {
   font-size: 22px;
+  font-family:'Didact Gothic', sans-serif; 
 }
 h2 {
+  font-family:'Didact Gothic', sans-serif; 
   font-size: 36px;
-  padding: 13px 0;
+  padding:;
+}
+
+#title1 {
+  font-family:'Didact Gothic', sans-serif; 
+  font-size: 28px;
 }
 
 ul {
   list-style: none;
   margin: 0;
   padding: 50px;
+
 }
 
-header {
-  background: url(background.jpg) no-repeat;
-  background-position: center; 
+li {
+  float:left;
+  width: 50%;
+  height: 150px; 
+  text-align: center;
+  line-height: ;
+  background: white;  
 }
+
+#imagemenu {
+  width: 50%;
+  height: 150px; 
+}
+
+
+
