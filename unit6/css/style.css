@@ -46,6 +46,7 @@ font-size: 1.25em;
 padding:10px 20px;
 text-decoration: none;
 text-align: center;
+width:200px;
 }
 .imagemenu {
  height:auto;
@@ -57,7 +58,7 @@ text-align: center;
   clear: both;
   width: 480px;
 }
-.splash {
+#splash {
 background-image: url(../images/background.jpg);
 background-position: 50% 50%;
 }
