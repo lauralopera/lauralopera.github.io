@@ -1,35 +1,19 @@
-section {
-background-image: url(background.jpg);
-background-position: 50% 50%;
+* { box-sizing:border-box; }
 
+body {
+ font-family:'Didact Gothic', sans-serif;
+ font-size:18px;
 }
 
-#trybox { 
-font-family: 'Satisfy', cursive; 
-font-size: 22px;
-text-decoration: none;
-color: black;
-background: 6CAD29;
-outline: 2px solid green;
-width: 50%;
-height: 100px; 
-text-align: center;
-line-height: 100px;
-background: green; 
- }
-question ???? (background: 6CAD29)
 
-#logo {
-  display: block;
-  margin: 0 auto;
-  clear: both;
-  width: 480px;
-}
+
+/* question ???? (background: 6CAD29) */
+
+
 
 header {
-  border-bottom: 3px solid black;
-  display: inline-block;
-  position: static;
+  border-bottom: 3px solid #222;
+  position:fixed;
   top:0;
   left:0;
   right:0;
@@ -37,8 +21,7 @@ header {
  
 
 nav a{
-  font-family:'Didact Gothic', sans-serif; 
-  font-size:20px;
+  font-size:1em;
   text-decoration: none;
   color: white;
   background-color: #946D54 ;
@@ -46,40 +29,46 @@ nav a{
 }
 
 h1 {
-  font-size: 22px;
-  font-family:'Didact Gothic', sans-serif; 
+  font-size: 2em;
 }
 h2 {
-  font-family:'Didact Gothic', sans-serif; 
-  font-size: 36px;
-  padding:;
+  font-size: 1.5em;
 }
-
-#title1 {
-  font-family:'Didact Gothic', sans-serif; 
-  font-size: 28px;
-}
-
 ul {
   list-style: none;
   margin: 0;
   padding: 50px;
-
 }
 
 li {
   float:left;
   width: 50%;
-  height: 150px; 
   text-align: center;
   line-height: ;
   background: white;  
 }
-
+.trybox { 
+background: #6CAD29;
+color: #fff;
+display:block;
+font-family: 'Satisfy', cursive; 
+font-size: 1.25em;
+text-decoration: none;
+text-align: center;
+width: 50%;
+}
 #imagemenu {
   width: 50%;
   height: 150px; 
 }
-
-
+#logo {
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  width: 480px;
+}
+#Section1 {
+background-image: url(../images/background.jpg);
+background-position: 50% 50%;
+}
 
