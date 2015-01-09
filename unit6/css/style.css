@@ -1,4 +1,4 @@
-* { margin:0; padding:0; box-sizing:border-box; }
+* { margin:0; padding:0; box-sizing: border-box; }
 
 body {
  color:#222;
@@ -7,30 +7,38 @@ body {
 }
 header {
   background:#fff;
-  border-bottom: 3px solid #222;
-  position:fixed;
   top:0;
   left:0;
   right:0;
   z-index:1;
 }
 nav a{
-  font-size:1em;
+  font-size:18px;
   text-decoration: none;
   color: white;
-  background-color: #946D54 ;
 }
 
+
 h1 {
-  font-size: 2em;
+  font-size: 24px;
+  color: white;
 }
 h2 {
-  font-size: 1.5em;
+  font-size: 24px;
+  text-align: center;
+  padding-top: 25px;
+  font-weight: bold;
+  color: #A0AFB2;
+}
+p {
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
 }
 ul {
   list-style: none;
   margin: 0;
-  padding: 50px;
+  padding: 0;
 }
 
 li {
@@ -38,6 +46,15 @@ li {
   width: 50%;
   text-align: center;
   background: white;  
+}
+
+#menu {
+position: relative;
+top: 45px;
+border-bottom: medium solid white;
+text-align: center;
+padding-bottom: 5px;
+
 }
 .trybox { 
 background: #6CAD29;
@@ -50,10 +67,16 @@ text-decoration: none;
 text-align: center;
 width:200px;
 }
+
+
 .imagemenu {
  height:auto;
- width: 50%;
+ width: 30%;
+ height: 30%;
+ position: relative;
 }
+
+
 #logo {
   display: block;
   margin: 0 auto;
@@ -62,18 +85,24 @@ width:200px;
 }
 #splash {
 background-image: url(../images/background.jpg);
-background-position: cover;
+background-size: contain;
 height:50vh;
 }
+
 #splash div {
-	margin:0 auto;
-	max-width:1200px;
-	position:relative;
-	top:50%;
-	transform: translateY(-50%);
+  clear: both;
+  margin:0;
+  max-width:1200px;
+  position:relative;
+  top:50%;
+  transform: translateY(-50%);
+  text-align: center;
+
 }
 #splash p { }
 #products { }
+
+
 #products div {
 	margin:0 auto;
 	max-width:1200px;
