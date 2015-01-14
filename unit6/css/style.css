@@ -16,6 +16,8 @@ nav a{
   font-size:1em;
   text-decoration: none;
   color: white;
+  padding: .5em;
+  margin: 0 2em;
 }
 h1 {
   font-size: 1.5em;
