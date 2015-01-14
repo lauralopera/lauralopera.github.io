@@ -84,7 +84,7 @@ ul.imagemenu {
 #splash {
 background-image: url(../images/background.jpg);
 background-size: contain;
-height:100vh;
+height: 60vh;
 }
 
 #splash div {
