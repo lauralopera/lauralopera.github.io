@@ -32,7 +32,7 @@ h2 {
 }
 p { }
 #splash p {
-  font-size: 2em;
+  font-size: 3em;
   color: white;
   font-weight: bold;
 }
@@ -43,6 +43,7 @@ border-bottom: .2em solid #fff;
 text-align: center;
 padding-bottom: .25em;
 }
+
 .trybox { 
 background: #6CAD29;
 color: #fff;
@@ -69,7 +70,7 @@ ul.imagemenu {
   background: white;  
 }
 .imagemenu img {
- width: 30%;
+ width: 80%;
  position: relative;
 }
 
