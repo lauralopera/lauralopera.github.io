@@ -70,7 +70,7 @@ ul.imagemenu {
   background: white;  
 }
 .imagemenu img {
- width: 80%;
+ width: 60%;
  position: relative;
 }
 
@@ -84,7 +84,7 @@ ul.imagemenu {
 #splash {
 background-image: url(../images/background.jpg);
 background-size: contain;
-height:50vh;
+height:100vh;
 }
 
 #splash div {
