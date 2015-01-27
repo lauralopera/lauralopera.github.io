@@ -124,6 +124,11 @@ height: 60vh;
 .imagemenu img {
  width: 100%;
 }
+}
 
-
+@media (max-width: 400px) {
+  nav {
+    width: 100%
+    
+  }
 }
