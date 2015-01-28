@@ -151,6 +151,14 @@ margin: 3em auto 0;
 height: 40vh;
 }
 
+#menu {
+position: relative;
+top: 0px;
+border-bottom: 0;
+text-align: center;
+padding: 0;
+}
+
 #logo {
   margin: 0;
   width: 18em;
