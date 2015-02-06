@@ -37,13 +37,13 @@ h2 {
   color: white;
   font-weight: bold;
 }
-#menu {
+/*#menu {
 position: relative;
 top: 45px;
 border-bottom: .2em solid #fff;
 text-align: center;
 padding-bottom: .25em;
-}
+}*/
 
 .trybox { 
 background: #6CAD29;
