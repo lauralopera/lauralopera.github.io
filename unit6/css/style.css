@@ -67,14 +67,17 @@ width:11em;
  width: 100%;
 }
 .overlay {
-	background:rgba(0,0,0,1);
-	color:#fff;
+	background:rgba(0,0,0,0);
+	color:rgba(255,255,255,0);
 	width:100%;
 	position:absolute;top:20%;left:0;right:0;
 	line-height:1.2em;
 }
-
-
+.imagemenu:hover .overlay {
+	background:rgba(0,0,0,.8);
+	color:rgba(255,255,255,1);
+	transition-duration:.5s;
+}
 #logo {
   display: block;
   margin: 0 auto;
