@@ -10,3 +10,10 @@ h1 {
   font-size: 1.5em;
   color: black;
 }
+p {
+display: block;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
