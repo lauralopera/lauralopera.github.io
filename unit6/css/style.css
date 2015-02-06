@@ -57,8 +57,9 @@ text-decoration: none;
 text-align: center;
 width:11em;
 }
-.imagemenu div {
+.imagemenu {
   float:left;
+  line-height:0;
   width: 33.33%;
 }
 .imagemenu img {
