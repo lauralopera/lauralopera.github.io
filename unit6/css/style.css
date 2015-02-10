@@ -111,7 +111,7 @@ height: 60vh;
 
 
 #aboutthefridge {
-overflow: auto;
+
 
 }
 
@@ -119,6 +119,7 @@ overflow: auto;
 width: 40%;
 display: inline-block;
 padding: 0 ;
+overflow: auto;
 }
 
 #text {
