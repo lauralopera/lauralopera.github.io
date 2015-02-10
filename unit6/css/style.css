@@ -114,8 +114,13 @@ height: 60vh;
 	padding: 0 200px 0 200px;
 }
 
+#thefridge {
+	display: inline-block;
+}
+
 #thefridge h2 {
 	text-align: left;
+	padding:0;
 }
 
 
