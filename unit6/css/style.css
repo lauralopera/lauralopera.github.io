@@ -185,6 +185,9 @@ height: 60vh;
 }
 .responsive-menu ul {
 	list-style-type:none;
+	
+}
+.responsive-menu li {
 	font-style: none;
 	font-weight: bold;
 	color: #fff;
