@@ -116,13 +116,14 @@ height: 60vh;
 }
 
 #fridge{
-width: 60%;
+width: 40%;
 display: inline-block;
 padding: 0 200px 0 200px;
 }
 
 #text {
 float: right;
+width: 40%;
 }
 
 
