@@ -179,6 +179,9 @@ width: 40%;
 }
 .responsive-menu ul {
 	list-style-type:none;
+	font-style: none;
+	font-weight: bold;
+	font: #fff;
 }
 
 /************
