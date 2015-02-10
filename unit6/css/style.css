@@ -111,10 +111,7 @@ height: 60vh;
 
 #fridge {
 	width: 60%
-	float:left;
-  	line-height:0;
-  	width: 33.33%;
-  	position:relative;
+	position:relative;
 }
 
 
