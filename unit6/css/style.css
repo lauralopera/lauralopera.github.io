@@ -104,28 +104,22 @@ height: 60vh;
 #products { }
 
 
-#products div {
+.wrapper {
 	margin:0 auto;
-	max-width:1200px;
-}
-
-
-#aboutthefridge {
-display: inline-block;
-
+	max-width:66.66em;
 }
 
 #fridge{
-width: 40%;
-display: inline-block;
-padding: 0;
-overflow: auto;
-
+	width: 50%;
+	display:block;
+	float:left;
+	padding: 0 2em 0 0;
+	overflow: auto;
 }
-
 #text {
-float: right;
-width: 40%;
+	float: left;
+	padding:0 0 0 2em;
+	width: 50%;
 }
 
 
