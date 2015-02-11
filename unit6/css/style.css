@@ -31,7 +31,12 @@ h2 {
   font-weight: bold;
   color: #A0AFB2;
 }
-
+h3 {
+	font-size:1.25em;
+}
+p {
+	margin-top:1em;
+}
 #splash p {
   font-size: 3em;
   color: white;
@@ -100,7 +105,6 @@ height: 60vh;
   text-align: center;
 
 }
-#splash p { }
 #products { }
 
 
