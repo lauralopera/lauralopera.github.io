@@ -137,7 +137,7 @@ height: 60vh;
   Hamburgesa
 *************/
 .mobile-nav {
-	/*display:none;*/
+	display:none;
 }
 .menu-btn {
 	background:#2170B1;
@@ -168,6 +168,14 @@ height: 60vh;
 
 .responsive-menu{
 	display: none;
+}
+.responsive-menu a {
+	color:#fff;
+	display:block;
+	font-weight:lighter;
+	margin:.25em;
+	padding:.25em;
+	text-decoration:none;
 }
 
 .expand {
